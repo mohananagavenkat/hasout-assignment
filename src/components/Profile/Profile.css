@@ -1,0 +1,29 @@
+.avatar {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.avatar img {
+  max-width: 100%;
+  overflow: hidden;
+  display: block;
+  border-radius: 8px;
+}
+
+.bio {
+  margin: 1rem auto;
+  font-size: 0.7rem;
+}
+
+.edit-bio {
+  width: 100%;
+  padding: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.company,
+.location {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
